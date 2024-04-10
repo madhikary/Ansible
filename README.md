@@ -1,4 +1,11 @@
 # Ansible
 Setting Up Ansible on macOS
-Installing Homebrew : /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+Step 1: 
+code : sudo yum update
+
+Step 2:
+Code: sudo yum install ansible
+
+
 
